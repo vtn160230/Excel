@@ -4,9 +4,8 @@ We have a datasheet here with data on presidents and I'm going to clean up the w
 
 ***
 
-### 1.
 
-Starting off with standardizing the president column by copying it over and running a =PROPER function on it because I see that there are lowercases and uppercases everywhere
+- Starting off with standardizing the president column by copying it over and running a =PROPER function on it because I see that there are lowercases and uppercases everywhere
 
 <details>
   <summary>
