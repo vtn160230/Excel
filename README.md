@@ -14,3 +14,6 @@ Starting off with standardizing the president column by copying it over and runn
 ![proper](https://github.com/vtn160230/COVID-19/assets/122754787/aade8f7e-70d8-4ce3-b4f6-aafc3afc5f2b)
 
 </details>
+
+***
+
